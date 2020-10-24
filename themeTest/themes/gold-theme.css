@@ -1,0 +1,17 @@
+body,html{
+    background-color: #161616;
+}
+
+#prefix{
+    color: #FFD700;
+}
+#theme{
+    -webkit-text-stroke: 1px #fff780; 
+    color: #FFD700;
+    text-shadow: 0 0 20px #FFD700;
+}
+
+#footer a{
+    color: #FFD700;
+    text-shadow: 0 0 20px #FFD700;
+}

@@ -1,0 +1,15 @@
+body,html{
+    background-color: #0F0F0F;
+}
+
+#prefix{
+    color: #20C20E;
+}
+#theme{
+    -webkit-text-stroke: 1px #FFFFFF; 
+    color: #20C20E;
+}
+
+#footer a{
+    color: #20C20E;
+}

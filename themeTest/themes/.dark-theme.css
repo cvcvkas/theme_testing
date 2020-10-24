@@ -1,0 +1,19 @@
+body,html{
+    background-color: rgb(225,225,225);
+}
+html{
+    filter: invert(100%);
+}
+
+#theme{
+    -webkit-text-fill-color:rgb(225,225,225); 
+    -webkit-text-stroke: 2px rgb(50, 50, 50); 
+    color: rgb(225,225,225);
+}
+#footer{
+    filter: invert(100%);
+    color: white;
+}
+#footer a{
+    color: #585be2;
+}

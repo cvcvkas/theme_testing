@@ -1,0 +1,12 @@
+body,html{
+    background-color: #B0E0E6;
+}
+
+#prefix{
+    color: #000000;
+}
+#theme{
+    -webkit-text-stroke: 2.5px #000000; 
+    color: #9b9b9b;
+    
+}
